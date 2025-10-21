@@ -5,8 +5,8 @@
 ### Full-Stack Developer | AI/ML Enthusiast | Problem Solver
 
 [![GitHub followers](https://img.shields.io/github/followers/Yash-Thio?label=Follow&style=social)](https://github.com/Yash-Thio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yash-thio)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://github.com/Yash-Thio/resume)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([[https://linkedin.com/in/yash-thio](https://www.linkedin.com/in/yash-pandey-0373892a1/)](https://www.linkedin.com/in/yash-pandey-0373892a1/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)]([[https://github.com/Yash-Thio/resume](https://drive.google.com/file/d/1v_bxk6cpAWea1mOwNve-9-rM3YyZnPaE/view?usp=sharing)](https://drive.google.com/file/d/1v_bxk6cpAWea1mOwNve-9-rM3YyZnPaE/view?usp=sharing))
 
 </div>
 
@@ -145,10 +145,10 @@ const yashThio = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-thio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/yash-thio](https://www.linkedin.com/in/yash-pandey-0373892a1/)]([https://github.com/Yash-Thio](https://www.linkedin.com/in/yash-pandey-0373892a1/)))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash-Thio)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/Yash-Thio/resume)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash.thio@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://github.com/Yash-Thio/resume](https://drive.google.com/file/d/1v_bxk6cpAWea1mOwNve-9-rM3YyZnPaE/view?usp=sharing))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeyash06@gmail.com)
 
 ---
 
