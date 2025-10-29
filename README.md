@@ -59,50 +59,6 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in building s
 
 ---
 
-## 🎯 Featured Projects
-
-### 🧩 [Sudoku Solver](https://github.com/Yash-Thio/sudoku-solver)
-**AI-Powered Sudoku Image Recognition & Solver**
-- Built an image processing pipeline with **OpenCV** and **TensorFlow** for digit recognition
-- Implemented **Redis pub/sub** and **WebSockets** for real-time communication
-- Designed microservices architecture with **Express.js** backend
-- **Tech**: TypeScript, Python, Redis, WebSockets, TensorFlow, OpenCV
-
-### 🏥 [Himmat](https://github.com/Yash-Thio/Himmat)
-**Full-Stack Healthcare Platform**
-- Developed comprehensive healthcare management system with **Next.js** and **TypeScript**
-- Implemented **GraphQL** API with **Drizzle ORM** for efficient data handling
-- Built responsive UI with modern design patterns
-- **Tech**: Next.js, TypeScript, GraphQL, Drizzle ORM, TailwindCSS
-
-### 🤖 [Path-Finding Bot](https://github.com/Yash-Thio/path-finding-bot)
-**Autonomous Robotics with A* Algorithm**
-- Implemented **A* pathfinding algorithm** for autonomous navigation
-- Integrated **ESP32** with **Bluetooth** communication for robot control
-- Designed maze-solving capabilities with Python automation
-- **Tech**: Python, Arduino, ESP32, Bluetooth, Algorithm Design
-
-### 🗓️ [Slot Booking System](https://github.com/Yash-Thio/Slot-Booking-Backend)
-**Complete Booking Management Platform**
-- Built full-stack booking system with **Node.js** backend and **React** frontend
-- Implemented RESTful APIs and database management
-- Created admin CMS for content management
-- **Tech**: JavaScript, Node.js, Express, React, TypeScript
-
-### 🛣️ [Safe Path](https://github.com/Yash-Thio/safe-path-api)
-**Route Safety Analysis Application**
-- Developed API for analyzing route safety metrics
-- Integrated geospatial data processing
-- **Tech**: Python, API Development
-
-### 🎮 [JavaScript Games](https://github.com/Yash-Thio/games)
-**Collection of Vanilla JavaScript Games**
-- Created multiple interactive games using pure JavaScript
-- Focus on DOM manipulation and game logic
-- **Tech**: JavaScript, HTML5, CSS3
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
