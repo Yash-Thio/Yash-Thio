@@ -59,20 +59,6 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in building s
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash-Thio&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Thio&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yash-Thio&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🏆 Achievements & Contributions
 
 - 🎯 **17+ Public Repositories** showcasing diverse technical skills
